@@ -303,7 +303,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/bili.json"
+            "ext": "https://Cr-cm.github.io/1/json/bili.json"
         },
         {
             "key": "知识",
@@ -313,7 +313,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx1.json"
+            "ext": "https://Cr-cm.github.io/1/json/xx1.json"
         },
         {
             "key": "儿童",
@@ -323,7 +323,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx2.json"
+            "ext": "https://Cr-cm.github.io/1/json/xx2.json"
         },
         {
             "key": "小学",
@@ -333,7 +333,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx3.json"
+            "ext": "https://Cr-cm.github.io/1/json/xx3.json"
         },
         {
             "key": "初中",
@@ -343,7 +343,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx4.json"
+            "ext": "https://Cr-cm.github.io/1/json/xx4.json"
         },
         {
             "key": "高中",
@@ -353,7 +353,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx5.json"
+            "ext": "https://Cr-cm.github.io/1/json/xx5.json"
         },
         {
             "key": "推送",
@@ -633,5 +633,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;d47cbda99b05cddb6d4e8bae2e85857e"
+       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/Cr-cm/1/main/jar/cc.jar;md5;d47cbda99b05cddb6d4e8bae2e85857e"
 }
